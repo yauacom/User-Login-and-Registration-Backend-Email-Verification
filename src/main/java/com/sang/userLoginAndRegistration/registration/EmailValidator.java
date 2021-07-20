@@ -2,7 +2,6 @@ package com.sang.userLoginAndRegistration.registration;
 
 import java.util.function.Predicate;
 import java.util.regex.Pattern;
-import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
 
